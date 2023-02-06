@@ -12,6 +12,7 @@ public class Maven {
 
     public static void main(String[] args) {
         int i = 50;
-        System.out.println(i);
+        String name = 20;
+        System.out.println(name + " "+i);
     }
 }
